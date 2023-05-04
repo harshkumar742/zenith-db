@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+*.log
+*.json
+*.sqlite
+*.db
+.DS_Store
