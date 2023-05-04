@@ -16,7 +16,7 @@ npm install zenith-db
 Here's an example of how to use ZenithDB:
 
 ```javascript
-const { ZenithDB } = require('zenith-db');
+const ZenithDB = require('zenith-db');
 
 // Create a new instance of ZenithDB
 const db = new ZenithDB('my-data.json');
