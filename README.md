@@ -63,10 +63,6 @@ db.replicate('replicationFilePath');
 
 `replicate(filePath: string): void` - replicates the data to the given file path.
 
-`addIndex(field: string): void` - adds an index for the given field.
-
-`removeIndex(field: string): void` - removes the index for the given field.
-
 The `filePath` parameter in the constructor and the `replicate` function should be the path to the file where the data will be stored and replicated. The `query` parameter in the `query` function should be an object with the following properties:
 
 - `field` (string) - the field to search for.
