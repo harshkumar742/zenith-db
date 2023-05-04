@@ -1,6 +1,6 @@
 # ZenithDB
 
-ZenithDB is a lightweight, easy-to-use database implementation for Node.js. It provides a simple API for storing and querying data, with support for aggregation, replication, concurrency, and more. With ZenithDB, you can quickly and easily add database functionality to your Node.js projects, without the need for a full-fledged database management system.
+ZenithDB is a simple lightweight, easy-to-use database implementation for Node.js. It provides a simple API for storing and querying data, with support for aggregation, replication, concurrency, and more. With ZenithDB, you can quickly and easily add database functionality to your Node.js projects, without the need for a full-fledged database management system.
 
 ## Installation
 
